@@ -153,7 +153,7 @@ int main() {
     cout << "EJERCICIO 4 - CONTAR HOJAS" << endl;
     cout << "========================================" << endl;
     cout << "Total de hojas en el arbol: " << contarHojas(raizEj2) << endl;
-    cout << "(Hojas: nodos sin hijos: 1, 3, 7, 12, 25, 30)" << endl;
+    cout << "(Hojas: nodos sin hijos: 1, 3, 7, 25, 30)" << endl;
     cout << endl;
     
     // ============================================================
