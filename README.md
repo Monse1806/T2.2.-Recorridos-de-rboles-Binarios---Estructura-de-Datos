@@ -94,4 +94,6 @@ cd src/java
 javac Main.java
 java Main
 ```
+## Reflexión sobre el uso de IA
 
+Durante el desarrollo de esta práctica, se utilizó inteligencia artificial (ChatGPT) como herramienta de apoyo para comprender conceptos clave sobre recorridos de árboles binarios, depurar errores en los códigos de C++ y Java, mejorar la redacción del informe y resolver problemas con comandos de Git. La IA facilitó el aprendizaje y agilizó la resolución de inconvenientes técnicos, pero todo el código y la documentación final fueron validados y adaptados por los estudiantes, asegurando que el trabajo refleje el esfuerzo y la comprensión del grupo. Se concluye que la IA es una herramienta complementaria útil, siempre que se utilice de manera ética y responsable, sin reemplazar el análisis crítico ni el trabajo colaborativo.
