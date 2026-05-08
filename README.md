@@ -63,7 +63,7 @@ Al finalizar la práctica, el estudiante será capaz de:
 | Función | Resultado |
 |---------|-----------|
 | Contar nodos | 12 nodos |
-| Contar hojas | 6 hojas (1, 3, 7, 12, 25, 30) |
+| Contar hojas | 5 hojas (1, 3, 7, 25, 30) |
 ### Ejercicio 5 - Sistema Web (Aplicación al proyecto final)
 | Situación | Recorrido | Explicación |
 |-----------|-----------|-------------|
