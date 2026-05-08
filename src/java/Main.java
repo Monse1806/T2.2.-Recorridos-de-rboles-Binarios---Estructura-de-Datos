@@ -155,7 +155,7 @@ public class Main {
         System.out.println("EJERCICIO 4 - CONTAR HOJAS");
         System.out.println("========================================");
         System.out.println("Total de hojas en el arbol: " + contarHojas(raizEj2));
-        System.out.println("(Hojas: nodos sin hijos: 1, 3, 7, 12, 25, 30)");
+        System.out.println("(Hojas: nodos sin hijos: 1, 3, 7, 25, 30)");
         System.out.println();
         
         // ============================================================
